@@ -25,8 +25,5 @@ Our repository is structured into distinct projects, each with its own purpose a
 
 ## Credits
 
-We owe credit to the University of Alberta for their invaluable reinforcement learning courses on Coursera, which have provided the foundational knowledge and inspiration for these projects.
+We owe credit to the University of Alberta for their invaluable reinforcement learning courses on Coursera.
 
-Join us on this exciting journey as we apply reinforcement learning to accomplish the extraordinary! Together, we'll make MoonShot Technologies' lunar landing dreams a reality.
-
-#ReinforcementLearning #DeepLearning #AI #LunarLanding #MoonShotTechnologies #ContributionsWelcome
